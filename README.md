@@ -3,11 +3,11 @@
 ***This EFI can be used for previous version of macOS ***
 ![Alt text](https://github.com/tunglamvghy/AsusS530UN-hackintosh/raw/master/Screenshoot/os.png)
 # Specification
-- **MainBoard:** Asus X530UN.
+- **MainBoard:** Asus S510UNR.
 - **Processor:** Intel Core i5-8250U @ 1.6GHz (KabyLake-R)
 - **Graphic:** 
   + Intel UHD620 (1536MB of dynamic memory (shared from the system))
-  + NVIDIA GeForce MX150 2GB
+  + NVIDIA GeForce MX150 4GB
 - **Network:**
   + Wifi: Intel 8265/8275 M2 NGFF (802.11 AC (2x2)) (working unstable!!)
   + Ethernet: No
