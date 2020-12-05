@@ -1,9 +1,3 @@
-## 
-
-## Need help. Contact me
-[![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
-[![Messenger](https://img.shields.io/badge/Chat_on-Messenger-0078FF)](https://m.me/k38b.lamtung)
-
 # Asus Vivobook S15 (S510UN)
 # Mac OS X 11.0.1 BigSur public release (20B29)
 ***This EFI can be used for previous version of macOS ***
